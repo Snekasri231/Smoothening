@@ -1,1 +1,1 @@
-# Smoothening
+# Smoothening -- Blur
